@@ -1,3 +1,5 @@
+// Did together in class
+
 require("dotenv").config();
 
 const Sequelize = require("sequelize");

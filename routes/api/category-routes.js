@@ -1,3 +1,5 @@
+// Did together in class
+
 const router = require("express").Router();
 const { Category, Product } = require("../../models");
 

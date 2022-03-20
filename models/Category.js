@@ -1,3 +1,5 @@
+// Did together in class
+
 const { Model, DataTypes } = require("sequelize");
 
 const sequelize = require("../config/connection.js");

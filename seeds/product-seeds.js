@@ -1,3 +1,5 @@
+// Did together in class
+
 const { Product } = require("../models");
 
 const productData = [
