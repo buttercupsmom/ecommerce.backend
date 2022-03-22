@@ -46,7 +46,11 @@ $npm run start
 
 ## Walk-Through
 
-- Here is the instructional demo video: [Google Drive]()
+- Here is the instructional demo video:
+- [Part 1](https://drive.google.com/file/d/1KIt6uNv4NDivHakP4Xw1wQQq1_lPGeQA/view?usp=sharing)
+- [Part 2](https://drive.google.com/file/d/1x-ZcvfWwV1Oi4raIa9mjdJT23FATLDPR/view?usp=sharing)
+- [Part 3](https://drive.google.com/file/d/1PaC5RY8mjR1LCFBjoQw_L_IIsgmHMoaw/view?usp=sharing)
+- [Part 4](https://drive.google.com/file/d/1FwgoyeSR9wEAFc7mkbKEAVefvx4Jr61L/view?usp=sharing)
 
 ## Credit
 
